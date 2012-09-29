@@ -2,7 +2,7 @@
 Thumbs.db
 .svn
 build/*
-mitierra.xcodeproj/*
-!mitierra.xcodeproj/project.pbxproj
+AR.xcodeproj/*
+!AR.xcodeproj/project.pbxproj
 old
 help
