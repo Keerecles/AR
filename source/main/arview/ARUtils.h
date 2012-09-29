@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import <AVFoundation/AVFoundation.h>
 #import <CoreLocation/CoreLocation.h>
 #import <Foundation/Foundation.h>

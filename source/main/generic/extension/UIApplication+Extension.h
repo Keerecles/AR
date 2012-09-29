@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import <Foundation/Foundation.h>
 
 /** Methods to increase/decrease the activity indicator. */

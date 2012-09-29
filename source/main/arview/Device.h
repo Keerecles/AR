@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import "Hardware.h"
 
 /** Properties of this device. */

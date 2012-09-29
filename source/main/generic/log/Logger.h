@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #define trace(args...) [[Logger singleton] debugWithLevel:kTrace line:__LINE__ funcName:__PRETTY_FUNCTION__ message:args];
 #define debug(args...) [[Logger singleton] debugWithLevel:kDebug line:__LINE__ funcName:__PRETTY_FUNCTION__ message:args];
 #define info(args...)  [[Logger singleton] debugWithLevel:kInfo  line:__LINE__ funcName:__PRETTY_FUNCTION__ message:args];

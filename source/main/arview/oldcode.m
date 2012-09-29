@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import "OldARViewController.h"
 
 @implementation OldARViewController

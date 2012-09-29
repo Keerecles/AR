@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import <UIKit/UIKit.h>
 #import <CoreLocation/CoreLocation.h>
 #import "Hardware.h"

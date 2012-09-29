@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import <CoreLocation/CoreLocation.h>
 #import "HttpDownload.h"
 #import "ASIHTTPRequest.h"

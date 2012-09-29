@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import "AppDelegate.h"
 #import "ARViewController.h"
 #import "Hardware.h"

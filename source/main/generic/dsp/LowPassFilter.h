@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 typedef enum {
     kNoFilter=0, kFilter=1, kAdaptiveFilter=2
 } LowPassFilterMode;

@@ -1,4 +1,5 @@
 
+// BSD License. <jano@jano.com.es>
 
 // Radians to Degrees. Usage: RADIANS_TO_DEGREES(0.785398)
 #define RADIANS_TO_DEGREES(radians) ((radians) * 180.0 / M_PI)

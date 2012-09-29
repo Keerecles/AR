@@ -732,7 +732,7 @@
 		3A549CC2136B329A00FCF871 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0450;
 			};
 			buildConfigurationList = 3A549CC5136B329A00FCF871 /* Build configuration list for PBXProject "AR" */;
 			compatibilityVersion = "Xcode 3.2";

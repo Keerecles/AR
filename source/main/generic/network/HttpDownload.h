@@ -1,4 +1,6 @@
 
+// BSD License. <jano@jano.com.es>
+
 #import "ASIHTTPRequest.h"
 #import "UIApplication+Extension.h"
 #import "Reachability.h"
